@@ -23,5 +23,16 @@
     "pg-hstore": "^2.3.4",
     "sequelize": "^6.23.1"
   },
-  "description": ""
+  "description": "",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katashafar/binar-challenge-chapter-7.git"
+  },
+  "bugs": {
+    "url": "https://github.com/katashafar/binar-challenge-chapter-7/issues"
+  },
+  "homepage": "https://github.com/katashafar/binar-challenge-chapter-7#readme"
 }
